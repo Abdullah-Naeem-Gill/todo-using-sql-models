@@ -1,0 +1,6 @@
+fastapi>=0.95.0  # Upgrade to a newer version of FastAPI for compatibility
+uvicorn==0.15.0
+bcrypt==3.2.0
+python-jose==3.3.0
+pydantic>=2.0.0  # Use a version of Pydantic compatible with Python 3.12
+passlib
